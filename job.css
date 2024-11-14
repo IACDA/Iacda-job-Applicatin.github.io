@@ -9,7 +9,7 @@ body, html{
 	font-family:Roboto,sans-serif,arial;
 	background: lavender;
 	font-size: 14px;
-	display:flex;
+
 }
 
 .Container
@@ -21,7 +21,7 @@ body, html{
 	margin: 50px auto 0;
 	border-top: 5px solid blue;
 	box-shadow: 0 0 7px 5px rgba(0, 0, 0, 0.5);
-	display: flex;
+	
 }
 
 .Container h2
@@ -30,7 +30,7 @@ body, html{
 	line-height: 24px;
 	padding: 30px;
 	text-align: center;
-	display: flex;
+	
 }
 
 .form-container
@@ -40,7 +40,7 @@ body, html{
 	margin: 20px auto;
 	text-align: center;
 	height: auto;
-	display: flex;
+	
 }
 
 .form-control
@@ -48,7 +48,7 @@ body, html{
 	height: 35px;
 	width: 45%;
 	padding: 0px 15px;
-	display: flex;
+	
 }
 
 .form-control:hover, .name:hover
@@ -68,7 +68,7 @@ body, html{
 	height: 35px;
 	line-height: 35px;
 	width: 100%;
-	display: flex;
+	
 }
 
 .button:hover
